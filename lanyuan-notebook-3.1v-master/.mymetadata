@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lanyuan-notebook-3.1v Maven Webapp"
+  id="myeclipse.1441592213305"
+  context-root="/lanyuan-notebook-3.1v"
+  j2ee-spec="6.0"
+  archive="lanyuan-notebook-3.1v Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
